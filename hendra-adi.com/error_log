@@ -1,0 +1,2 @@
+[08-Mar-2017 01:19:38 Asia/Jakarta] PHP Fatal error:  Call to a member function get() on null in /home/hendraad/public_html/application/models/Saklar_model.php on line 20
+[21-Mar-2017 15:44:55 Asia/Jakarta] PHP Fatal error:  Call to a member function userdata() on null in /home/hendraad/public_html/application/controllers/Welcome.php on line 10
